@@ -44,11 +44,6 @@ export const Form = ({onSubmit, titulo}) => {
         onChange={handlerChangeNombre}
       />
       <input type="submit" />
-
-
-
-
-
       {/* <Input /> */}
      {/* {mostrarError} */}
     </form>
